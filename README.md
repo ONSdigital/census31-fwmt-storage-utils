@@ -29,4 +29,6 @@ example.folderLocation=file://${home}/testfiles/
   private URI folderLocation;
 
   List<URI> files = fsUtils.getFilenamesInFolder(fileLocation);
+
+  trigger
         
